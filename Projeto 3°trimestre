@@ -1,11 +1,41 @@
-https://barnimages.com/
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"; href="1B.css">
+    <title>Aulas</title>
+</head>
+<body>
+    <h1>Aula 1-B</h1>
+    <form>
+            <label for="nome">Nome e Sobrenome</label>
+            <input type="text" id="nome" class="input-padrao">
 
-https://cupcake.nilssonlee.se/
+            <label for="email">E-mail</label>
+            <input type="text" id="email" class="input-padrao">
 
-https://focastock.com/
+            <label for="idade">Idade</label>
+            <input type="date" id="idade" class="input-padrao">
 
-https://isorepublic.com/
+            <label for="Telefone">Telefone</label>
+            <input type="text" id="telefone" class="input-padrao">
 
-https://jaymantri.com/
+            <label for="mensagem">mensagem</label>
+            <textarea cols="" rows="" id="mensagem"
+            class="input-padrao"></textarea>
 
-https://kaboompics.com/
+            <p><input type="submit" value="Enviar"></p>
+
+            <div>
+
+                <p>Como Prefere o contato?</p>
+                <label for="radio-email"><input type="radio" name="con"
+                    value="email" id="radio-email">Email</label>
+
+            </div>
+     </form>
+    <img src="MAIS UAI !!!.jpeg">
+</body>
+</html>
