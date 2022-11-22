@@ -1,4 +1,32 @@
-body {
-    text-align: center;
-    background-color: rgb(255, 255, 255);
+.moldura {
+
+    height: 200px;
+    width: 200px;
+    display:flex
+}
+
+#borda {
+
+    width: 20;
+    display: inline-flex;
+    
+}
+
+.caneca {
+    
+    height: 420px;
+    width: 420px;
+    display:flex
+
+}
+
+#edu {
+    flex-direction: center;
+    width: 20;
+    display: inline-flex;
+
+}
+
+.texto {
+     text-align: center;
 }
